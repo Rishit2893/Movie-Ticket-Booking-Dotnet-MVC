@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Show>
+
+@{
+    ViewBag.Title = "Shows | Admin";
+    var index = 0;
+}
+
+<div class="container my-3">
+    <a asp-action="DeleteExpiredShow" class="btn btn-sm btn-primary">Delete Expired Show</a>
+    <table class="table table-hover my-3">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Movie</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>Language</th>
+                <th>Time</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var show in Model)
+            {
+                index++;
+                <tr>
+                    <td>@index</td>
+                    <td>@show.Movie.Title</td>
+                    <td>@DateTime.Parse(show.StartDate).ToString("dd MMMM yyyy")</td>
+                    <td>@DateTime.Parse(show.EndDate).ToString("dd MMMM yyyy")</td>
+                    <td>@show.Language</td>
+                    <td>@show.Time</td>
+                    <td>@show.Price ₹</td>
+                    <td>
+                        <a asp-action="DeleteShow" asp-route-id="@show.Id" style="color:red">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

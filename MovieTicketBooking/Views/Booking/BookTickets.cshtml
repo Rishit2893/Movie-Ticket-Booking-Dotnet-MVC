@@ -1,0 +1,46 @@
+﻿@model List<SelectListItem>
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Book Tickets";
+    var index = 0;
+}
+
+<div class="container my-3">
+
+    <form asp-action="BookTickets" method="post">
+        <button class="btn btn-dark me-2 my-2" onclick="history.back()">Back</button>
+
+        <div class="d-flex align-items-center justify-content-between">
+            <div class="d-flex align-items-center">
+                <h2 class="me-2">@ViewBag.MovieTitle</h2>
+                <h5><span class="badge bg-dark mx-1">@ViewBag.ShowDate</span></h5>
+                <h5><span class="badge bg-dark mx-1">@ViewBag.Language</span></h5>
+                <h5><span class="badge bg-dark mx-1">@ViewBag.ShowTime</span></h5>
+            </div>
+            <button type="submit" class="btn btn-primary">Book Tickets</button>
+        </div>
+
+        <hr class="text-primary" />
+
+        <input type="hidden" name="showId" value="@ViewBag.ShowId" />
+        <input type="hidden" name="showDate" value="@ViewBag.ShowDate" />
+
+        <div class="my-3">
+            <span class="text-primary">Price : @ViewBag.Price ₹ /seat</span>
+        </div>
+
+        @for (int i = 0; i < 8; i++)
+        {
+            for (int j = 0; j < 20; j++)
+            {
+                <input type="hidden" asp-for="@Model[index].Value" />
+                <input asp-for="@Model[index].Selected" class="btn-check" id="@Model[index].Value" disabled="@Model[index].Disabled">
+                <label for="@Model[index].Value" class="btn @(Model[index].Disabled ? "btn-secondary" : "btn-outline-dark") me-1 my-1" style="width:3em; height:3em">@Model[index].Text</label>
+                index++;
+            }
+            <br />
+        }
+    </form>
+</div>
+

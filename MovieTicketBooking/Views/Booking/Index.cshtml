@@ -1,0 +1,40 @@
+﻿@model BookingIndexViewModel
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Book Tickets";
+}
+
+<div class="container my-3">
+    <button class="btn btn-dark me-2 my-2" onclick="history.back()">Back</button>
+    <h2 class="my-auto">@Model.MovieTitle</h2>
+    <hr class="text-primary" />
+    <form asp-action="Index" method="post">
+        <input type="hidden" asp-for="MovieId">
+        <input type="hidden" asp-for="MovieTitle">
+
+        <h4 class="my-3 text-muted">Select Date</h4>
+        @foreach (var date in Model.ShowDates)
+        {
+            <input asp-for="ShowDate" type="radio" value="@date.Value" class="btn-check" id="@date.Value">
+            <label for="@date.Value" class="btn btn-outline-dark me-1">@date.Text</label>
+        }
+
+        <span asp-validation-for="ShowDate" class="text-danger mx-3"></span>
+
+        <h4 class="my-3 text-muted">Select Language</h4>
+        @foreach (var language in Model.Languages)
+        {
+            <input asp-for="Language" type="radio" value="@language.Value" class="btn-check" id="@language.Value">
+            <label for="@language.Value" class="btn btn-outline-dark me-1">@language.Text</label>
+        }
+
+        <span asp-validation-for="Language" class="text-danger mx-3"></span>
+
+
+        <br />
+
+        <button type="submit" class="btn btn-dark my-4">Next</button>
+    </form>
+</div>
+

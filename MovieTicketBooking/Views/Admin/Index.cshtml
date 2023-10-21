@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Movie>
+
+@{
+    ViewBag.Title = "Movies | Admin";
+    var index = 0;
+}
+
+<div class="container my-3">
+    <a asp-action="CreateMovie" class="btn btn-sm btn-primary">Add New Movie</a>
+    <table class="table table-hover my-3">
+        <thead class="table-dark">
+            <tr>
+                <th>#</th>
+                <th>Title</th>
+                <th>Released On</th>
+                <th>Language</th>
+                <th>Genre</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in Model)
+            {
+                index++;
+                <tr>
+                    <td>@index</td>
+                    <td>@movie.Title</td>
+                    <td>@movie.ReleaseDate</td>
+                    <td>@movie.Language</td>
+                    <td>@movie.Genre</td>
+                    <td>
+                        <a asp-controller="Movie" asp-action="Details" asp-route-id="@movie.Id">View</a>
+                        &nbsp;
+                        <a asp-action="EditMovie" asp-route-id="@movie.Id">Edit</a>
+                        &nbsp;
+                        <a asp-action="DeleteMovie" style="color:red;" asp-route-id="@movie.Id">Delete</a>
+                        &nbsp;
+                        <a asp-action="CreateShow" asp-route-id="@movie.Id ">Add Show</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

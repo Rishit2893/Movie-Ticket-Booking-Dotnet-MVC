@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Booking>
+
+@inject IMovieRepository _movieRepo
+
+@{
+    ViewBag.Title = "Booking History";
+}
+
+<div class="container">
+    <div class="row">
+        @foreach (var booking in Model)
+        {
+            var isActive = DateTime.Compare(DateTime.Parse(booking.ShowDate), DateTime.Now) >= 0;
+            <div class="col-4 card text-center my-3">
+                <div class="card-header @(isActive ? "bg-dark text-white" : "")">
+                    @_movieRepo.GetMovie(booking.Show.MovieId).Title
+                    <span>(@booking.Show.Language)</span>
+                </div>
+                <div class="card-body">
+                    <p class="card-title mb-1"><span class="text-muted">Seat No : </span>@booking.SeatNo</p>
+                    <p class="card-text mb-1"><span class="text-muted">Time : </span>@booking.Show.Time</p>
+                    <p class="card-text mb-1"><span class="text-muted">Price : </span>@booking.Show.Price</p>
+                </div>
+                <div class="card-footer @(isActive ? "bg-dark text-white" : "")">
+                    @DateTime.Parse(booking.ShowDate).ToString("dd MMMM yyyy")
+                </div>
+            </div>
+        }
+    </div>
+</div>

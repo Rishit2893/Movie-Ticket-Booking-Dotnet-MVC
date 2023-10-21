@@ -1,0 +1,47 @@
+﻿@model SelectShowViewModel
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Book Tickets";
+}
+
+<div class="container my-3">
+    <button class="btn btn-dark me-2 my-2" onclick="history.back()">Back</button>
+
+    <div class="d-flex align-items-center">
+        <h2 class="me-2">@Model.MovieTitle</h2>
+        <h5><span class="badge bg-dark mx-1">@Model.ShowDate</span></h5>
+        <h5><span class="badge bg-dark mx-1">@Model.Language</span></h5>
+    </div>
+
+    <hr class="text-primary" />
+    <form asp-action="Shows" method="post">
+
+        <input type="hidden" asp-for="MovieId">
+        <input type="hidden" asp-for="MovieTitle">
+        <input type="hidden" asp-for="ShowDate">
+        <input type="hidden" asp-for="Language">
+
+        <h4 class="my-3 text-muted">Available Shows</h4>
+
+        @if (Model.Times.Count != 0)
+        {
+            @foreach (var time in Model.Times)
+            {
+                <input asp-for="ShowId" type="radio" value="@time.Value" class="btn-check" id="@time.Value">
+                <label for="@time.Value" class="btn btn-outline-dark me-1">@time.Text</label>
+            }
+        }
+        else
+        {
+            <span class="text-danger">No shows available, try another date and language</span>
+        }
+
+        <span asp-validation-for="ShowId" class="text-danger mx-3"></span>
+
+        <br />
+
+        <button type="submit" class="btn btn-dark my-4">Next</button>
+    </form>
+</div>
+

@@ -1,0 +1,46 @@
+﻿@model MovieCreateViewModel
+
+@{
+    ViewBag.Title = "Add Movie | Admin";
+}
+
+<div class="container">
+    <h2 class="my-3">Add new movie</h2>
+    <hr class="text-primary" />
+    <form asp-action="CreateMovie" method="post" enctype="multipart/form-data">
+        <table class="table table-borderless">
+            <tr>
+                <td style="width:200px;">
+                    <label asp-for="Title" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="Title" class="form-control w-50" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="ReleaseYear" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="ReleaseYear" class="form-control w-50" />
+                    <span asp-validation-for="ReleaseYear" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="Poster" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="Poster" class="form-control w-50" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>

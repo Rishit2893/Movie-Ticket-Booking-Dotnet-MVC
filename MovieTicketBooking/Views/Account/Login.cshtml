@@ -1,0 +1,44 @@
+﻿@model LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="container">
+    <h1 class="my-3">Login to your account</h1>
+    <hr class="text-primary" />
+    <form asp-action="Login" method="post" asp-route-returnUrl="@ViewBag.ReturnUrl">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <table class="table table-borderless">
+            <tr>
+                <td style="width:200px">
+                    <label asp-for="UserName" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="UserName" class="form-control w-25" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="Password" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="Password" class="form-control w-25" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input asp-for="RememberMe" class="form-check-input" />
+                    <label asp-for="RememberMe" class="form-check-label"></label>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>

@@ -1,0 +1,544 @@
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.xml
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\scopedcss\bundle\MovieTicketBooking.styles.css
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\vimal\source\repos\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.xml
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\scopedcss\bundle\MovieTicketBooking.styles.css
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.xml
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\scopedcss\bundle\MovieTicketBooking.styles.css
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateMovie.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditMovie.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateShow.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateMovie.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateShow.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditMovie.cshtml.g.cs
+D:\ASPNETProject\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AllShows.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.xml
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\scopedcss\bundle\MovieTicketBooking.styles.css
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AllShows.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateMovie.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateShow.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditMovie.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
+E:\All Program\SEM 5 PROJECTS\.NET Core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Shows.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\BookTickets.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Shows.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Bookings.cshtml.g.cs
+D:\Projects\.NetCore\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\ViewBookings.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.StaticWebAssets.xml
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Bookings.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateMovie.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateShow.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditMovie.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Shows.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\BookTickets.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Shows.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\ViewBookings.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+D:\Akash\Sem-5\WAD\project\AspNetCoreProject-main\WDDN_DotNetCore_Project_CE076_CE073_CE048\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.StaticWebAssets.xml
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.exe
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.deps.json
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.json
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.runtimeconfig.dev.json
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfoInputs.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.AssemblyInfo.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorAssemblyInfo.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\staticwebassets\MovieTicketBooking.StaticWebAssets.Manifest.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.input.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.TagHelpers.output.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorCoreGenerate.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Bookings.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateMovie.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateShow.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditMovie.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Shows.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\BookTickets.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Index.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\Shows.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Booking\ViewBookings.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Details.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cache
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.RazorTargetAssemblyInfo.cs
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.Views.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.csproj.CopyComplete
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.dll
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.pdb
+C:\Users\Akash\Desktop\WAD Project\core\MovieTicketBooking\MovieTicketBooking\obj\Debug\netcoreapp3.1\MovieTicketBooking.genruntimeconfig.cache

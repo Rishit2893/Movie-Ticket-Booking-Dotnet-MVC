@@ -1,0 +1,155 @@
+﻿@model ShowCreateViewModel
+
+@{
+    ViewBag.Title = "Add Show | Admin";
+}
+
+<div class="container">
+    <h2 class="my-3">Add new show</h2>
+    <hr class="text-primary" />
+
+    <form asp-action="CreateShow" method="post">
+        <input type="hidden" asp-for="MovieId" />
+        <table class="table table-borderless">
+            <tr>
+                <td>
+                    <label asp-for="MovieTitle" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="MovieTitle" class="form-control w-50" disabled />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="Language" class="form-lable"></label>
+                </td>
+                <td>
+                    <select asp-for="Language" class="form-select w-50">
+                        @foreach (var language in Model.Languages)
+                        {
+                            <option value="@language">@language</option>
+                        }
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="StartDate" class="form-lable"></label>
+                </td>
+                <td>
+                    <input id="StartDate" asp-for="StartDate" class="form-control w-50" onchange="page_reload()" value="null" />
+                    <span asp-validation-for="StartDate" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="EndDate" class="form-lable"></label>
+                </td>
+                <td>
+                    <input id="EndDate" asp-for="EndDate" class="form-control w-50" onchange="page_reload()" value="null" />
+                    <span asp-validation-for="EndDate" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="Time" class="form-lable"></label>
+                </td>
+                <td>
+                    <select asp-for="Time" class="form-select w-50" id="time_option">
+                        @* @foreach (var time in Model.Times)
+                            {
+                                <option value="@time">@time</option>
+                            }*@
+                    </select>
+                    <span asp-validation-for="Time" class="text-danger"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="Price" class="form-lable"></label>
+                </td>
+                <td>
+                    <input asp-for="Price" class="form-control w-50" />
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+@section Scripts {
+
+    <script>
+
+        function page_reload() {
+            var StartDate = document.getElementById("StartDate").value;
+            var EndDate = document.getElementById("EndDate").value;
+            localStorage.setItem("StartDate", StartDate);
+            localStorage.setItem("EndDate", EndDate);
+            location.reload();
+        }
+
+        window.onload = function ()
+        {
+            var StartDate = localStorage.getItem("StartDate");
+            var EndDate = localStorage.getItem("EndDate");
+
+            if (StartDate==null)
+                return;
+
+            document.getElementById("StartDate").value = StartDate;
+
+            if (!EndDate)
+                return;
+
+            document.getElementById("EndDate").value = EndDate;
+            localStorage.removeItem("StartDate");
+            localStorage.removeItem("EndDate");
+
+            var AllTimeSlots = JSON.parse('@Json.Serialize(@Model.Times)');
+            var AllShows = JSON.parse('@Json.Serialize(@Model.AvailableShowSlot)');
+
+            for (var timeSlot in AllTimeSlots)
+            {
+                console.log(AllTimeSlots[timeSlot]);
+                var time_option = document.getElementById("time_option");
+                var option = document.createElement("option");
+                option.value = AllTimeSlots[timeSlot];
+                option.text = AllTimeSlots[timeSlot];
+                time_option.add(option);
+            }
+
+            for (var show in AllShows)
+            {
+                var time_option = document.getElementById("time_option");
+                console.log(StartDate +" "+ EndDate);
+                console.log(fixed_date(AllShows[show].startDate) +" "+ fixed_date(AllShows[show].endDate) )
+                if (new Date(StartDate) <= new Date(fixed_date(AllShows[show].endDate)))
+                {
+                    if (new Date(EndDate) > new Date(fixed_date(AllShows[show].startDate)))
+                    {
+                        console.log(AllShows[show].time)
+                        time_option.remove(AllShows[show].time);
+                        console.log(time_option)
+                    }
+                }
+            }
+        }
+
+        function fixed_date(str) {
+            var d = str.split("-");
+            var dd = d.reverse();
+            return dd.join("-");
+        }
+
+        function dothis() {
+            var time_option = document.getElementById("time_option");
+            console.log(time_option.value)
+        }
+    </script>
+}

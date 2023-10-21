@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\06c80105-d2e2-479c-bdfd-f275e60d98b4_doctor-strange.jpg",
+      "PackagePath": "staticwebassets\\images\\06c80105-d2e2-479c-bdfd-f275e60d98b4_doctor-strange.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\4bfbf3c1-209e-4b7a-a24a-dc0ad7ccc0d5_brahmastra.png",
+      "PackagePath": "staticwebassets\\images\\4bfbf3c1-209e-4b7a-a24a-dc0ad7ccc0d5_brahmastra.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\4c191904-9ec4-4461-bd2d-4931a0530ea5_ced28102-197e-47e7-a6f1-85bd06bbf37f_avengers-endgame.webp",
+      "PackagePath": "staticwebassets\\images\\4c191904-9ec4-4461-bd2d-4931a0530ea5_ced28102-197e-47e7-a6f1-85bd06bbf37f_avengers-endgame.webp"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\734fabca-8fe2-4582-a2c7-4b9324b3d037_f7f95774-d0b9-44d3-bdad-879c92110cf6_Jungle Cruise.jpg",
+      "PackagePath": "staticwebassets\\images\\734fabca-8fe2-4582-a2c7-4b9324b3d037_f7f95774-d0b9-44d3-bdad-879c92110cf6_Jungle Cruise.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\7fda510e-be1e-444e-bbf6-cab3b9af5ff2_Pathaan.png",
+      "PackagePath": "staticwebassets\\images\\7fda510e-be1e-444e-bbf6-cab3b9af5ff2_Pathaan.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\873178b8-3756-46ba-8084-4572bc7b177a_titanic.png",
+      "PackagePath": "staticwebassets\\images\\873178b8-3756-46ba-8084-4572bc7b177a_titanic.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\9868c625-0eab-4b33-80db-d1ff842803fa_rrr.png",
+      "PackagePath": "staticwebassets\\images\\9868c625-0eab-4b33-80db-d1ff842803fa_rrr.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\a19e6331-cdbe-4260-a6c5-1f2787997bc8_the-terminal.png",
+      "PackagePath": "staticwebassets\\images\\a19e6331-cdbe-4260-a6c5-1f2787997bc8_the-terminal.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\a1c650b3-89bd-430f-bd5c-b0ddf9a2ad34_c1cf363e-6a04-4a50-b824-4f430fd3e900_matrix4.webp",
+      "PackagePath": "staticwebassets\\images\\a1c650b3-89bd-430f-bd5c-b0ddf9a2ad34_c1cf363e-6a04-4a50-b824-4f430fd3e900_matrix4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\default-poster.jpg",
+      "PackagePath": "staticwebassets\\images\\default-poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\e4293feb-e5bc-49e9-a1d3-fa7c89104721_pushpa.png",
+      "PackagePath": "staticwebassets\\images\\e4293feb-e5bc-49e9-a1d3-fa7c89104721_pushpa.png"
+    },
+    {
+      "Id": "C:\\Users\\Legion\\source\\repos\\DotNetCoreMVCProject\\MovieTicketBooking\\MovieTicketBooking\\wwwroot\\images\\ef985418-8d08-4c92-902c-a79679c61181_the-batman.png",
+      "PackagePath": "staticwebassets\\images\\ef985418-8d08-4c92-902c-a79679c61181_the-batman.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MovieTicketBooking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MovieTicketBooking.props",
+      "PackagePath": "build\\MovieTicketBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieTicketBooking.props",
+      "PackagePath": "buildMultiTargeting\\MovieTicketBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MovieTicketBooking.props",
+      "PackagePath": "buildTransitive\\MovieTicketBooking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

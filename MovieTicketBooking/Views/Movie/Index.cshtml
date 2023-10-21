@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Movie>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container d-flex justify-content-between align-items-center bg-warning rounded-3 py-3 mt-3">
+    @if (ViewBag.Type == "NotRealeased")
+    {
+        <span class="text-white">Comming Soon</span>
+        <a asp-action="Index" asp-route-type="@ViewBag.Type" class="text-danger text-decoration-none my-auto">Explore Upcomming Movies ></a>
+
+    }
+    else
+    {
+        <span class="text-white">Now Showing</span>
+        <a asp-action="Index" asp-route-type="@ViewBag.Type" class="text-danger text-decoration-none my-auto">In Cinemas ></a>
+    }
+</div>
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var Movie in Model)
+        {
+            string posterPath = "~/images/" + (Movie.PosterPath ?? "default-poster.jpg");
+            <div class="col-3 my-3 d-flex align-items-stretch">
+                <a asp-controller="Movie" asp-action="Details" asp-route-id="@Movie.Id" class="card rounded-3 text-decoration-none">
+                    <img src="@posterPath" class="img-fluid" style="height:27rem;width:50rem" asp-append-version="true">
+                    <div class="text-dark text-center my-2">
+                        @Movie.Title
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>
+

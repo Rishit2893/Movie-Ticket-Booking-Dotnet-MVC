@@ -1,0 +1,97 @@
+﻿@model Movie
+
+@{
+    string posterPath = "~/images/" + (Model.PosterPath ?? "default-poster.jpg");
+}
+
+<div class="container d-flex justify-content-between align-items-center my-1">
+    <button onclick="history.back()" class="btn btn-dark text-decoration-none my-2">Back</button>
+    <a asp-controller="Booking" asp-action="Index" asp-route-id="@Model.Id" class="btn btn-dark text-decoration-none mx-2 my-2">Book Now</a>
+</div>
+
+<div class="container-fluid bg-dark">
+    <div class="container p-3">
+        <div class="row">
+            <div class="col-4">
+                <img src="@posterPath" class="rounded-3 w-100" asp-append-version="true" />
+            </div>
+            <div class="col-8 d-flex align-items-center">
+                <div id="details">
+                    <h1 class="text-light mb-3">
+                        @ViewBag.Title
+                        <span class="text-muted">(@ViewBag.Year)</span>
+                    </h1>
+                    <h6 class="my-3">
+                        <span class="text-light">@ViewBag.Runtime • </span>
+                        <span class="text-light">@ViewBag.Genre •</span>
+                        <span class="text-light">@ViewBag.Released</span>
+                    </h6>
+                    <h5>
+                        @foreach (var language in ViewBag.Languages)
+                        {
+                            <span class="badge bg-light text-dark my-3 me-2">@language</span>
+                        }
+                    </h5>
+                    <h4 class="text-primary">Ratings</h4>
+                    <div class="row my-3 text-light">
+                        @foreach (var rating in ViewBag.Ratings)
+                        {
+                            <div class="col-4 d-flex flex-column">
+                                <h5>@rating.Value</h5>
+                                <p class="text-muted">@rating.Key</p>
+                            </div>
+                        }
+                    </div>
+                    <h4 class="text-primary">Cast & Crew</h4>
+                    <div class="row text-light my-3">
+                        @foreach (var actor in ViewBag.Actors)
+                        {
+                            <div class="col-4 d-flex flex-column">
+                                <h5>@actor</h5>
+                                <p class="text-muted">Actor</p>
+                            </div>
+                        }
+                        <div class="col-4 d-flex flex-column">
+                            <h5>@ViewBag.Director</h5>
+                            <p class="text-muted">Director</p>
+                        </div>
+                        @foreach (var writer in ViewBag.Writers)
+                        {
+                            <div class="col-4 d-flex flex-column">
+                                <h5>@writer</h5>
+                                <p class="text-muted">Writer</p>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container my-3">
+    <h4><span class="badge bg-dark text-white">About the Movie</span></h4>
+    <p id="desc">@ViewBag.Plot</p>
+</div>
+
+@if (ViewBag.SimilarMovies.Count != 0)
+{
+    <div class="container my-3">
+        <h4><span class="badge bg-dark text-white">You might also like</span></h4>
+        <div class="d-flex" style="overflow-x:auto;flex-wrap:nowrap">
+            @foreach (var movie in ViewBag.SimilarMovies)
+            {
+                string poster = "~/images/" + (movie.PosterPath ?? "default-poster.jpg");
+                <div class="my-2 me-2" style="flex:0 0 auto">
+                    <a asp-action="Details" asp-route-id="@movie.Id" class="card rounded-3 text-decoration-none">
+                        <img src="@poster" class="img-fluid" style="height: 25rem; width: 17rem" asp-append-version="true">
+                        <div class="text-dark text-center my-2">
+                            @movie.Title
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+}
+
